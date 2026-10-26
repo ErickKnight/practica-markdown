@@ -52,7 +52,7 @@ El \*\*FC Barcelona\*\* es para mí el mejor equipo del mundo. Nuestro lema es \
 
 \- \[Página del Barca](https://www.fcbarcelona.es)
 
-\- \[Más detalles] (Docs/detalles.md)
+\- \[Más detalles](Docs/detalles.md)
 
 
 
